@@ -229,9 +229,9 @@ def user_stats(df):
     # TO DO: Display earliest, most recent, and most common year of birth
     #Use the try and except clause to display the earliest, most recent and common year of birth and also accommodate files with no birth data
     try:
-        earliest_year_of_birth = int(df["Birth Year"].min())
-        most_recent_year_of_birth = int(df["Birth Year"].max())
-        most_common_year_of_birth = int(df["Birth Year"].mode()[0])
+        earliest_birth_year = int(df["Birth Year"].min())
+        most_recent_birth_year = int(df["Birth Year"].max())
+        most_common_birth_year = int(df["Birth Year"].mode()[0])
         print("\nThe earliest year of birth is: {}\n\nThe most recent year of birth is: {}\n\nThe most common year of birth is: {}\n".format(earliest_year_of_birth,most_recent_year_of_birth,most_common_year_of_birth))
 
     except:
