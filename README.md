@@ -11,6 +11,9 @@
 ### Description
 In this project, we make use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. We write code to (a) import the data and answer interesting questions about it by computing descriptive statistics, and (b) write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
+### How to run the program
+You can input 'python bikeshare.py' on your terminal to run this program.
+
 ### Requirements
 * Language: Python 3.6 or above
 * Libraries: pandas, numpy, time
