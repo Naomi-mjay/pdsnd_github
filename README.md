@@ -6,7 +6,7 @@
 ### BASIC DATA EXPLORATION WITH PANDA ON BIKESHARE DATA
 *A Python project using pandas to explore bikeshare data*
 
-##### [MOJISOLA PETERS](https://github.com/Naomi-mjay)
+##### AUTHOR - [MOJISOLA PETERS](https://github.com/Naomi-mjay) Mentioned all the help received in 'Credits' section
 
 ### Description
 In this project, we make use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. We write code to (a) import the data and answer interesting questions about it by computing descriptive statistics, and (b) write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
@@ -28,3 +28,5 @@ washington.csv - Dataset containing all bikeshare information for the city of Wa
 [HodardCodeclub](https://github.com/HodardCodeclub)- HodardCodeclub's repository helped with understanding the structure for this project
 
 [pandas docs](https://pandas.pydata.org/docs/) - pandas documentation was immensely helpful in understanding the implementation of pandas methods used in this project.
+
+My colleague and friend Ngozi for introducing me to the Udacity programme and providing insights where needed
